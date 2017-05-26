@@ -1,0 +1,7 @@
+C:\Users\bachp\Documents\Workspace\WSB\ProgramowanieObiektowe\Cwiczenia\obj\Debug\Cwiczenia.csprojResolveAssemblyReference.cache
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\bin\Debug\Cwiczenia.exe.config
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\bin\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\bin\Debug\Cwiczenia.pdb
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\obj\Debug\Cwiczenia.csprojResolveAssemblyReference.cache
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\obj\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\obj\Debug\Cwiczenia.pdb

@@ -1,0 +1,19 @@
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\obj\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\obj\Debug\Cwiczenia.pdb
+C:\Users\Czarny\Desktop\programowanie_obiektowe-Zadanie_1\Cwiczenia\bin\Debug\Cwiczenia.exe.config
+C:\Users\Czarny\Desktop\Robert Czarnecki\Cwiczenia\bin\Debug\Cwiczenia.exe.config
+C:\Users\Czarny\Desktop\Robert Czarnecki\Cwiczenia\obj\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\Robert Czarnecki\Cwiczenia\obj\Debug\Cwiczenia.pdb
+C:\Users\Czarny\Desktop\Robert Czarnecki\Cwiczenia\bin\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\Robert Czarnecki\Cwiczenia\bin\Debug\Cwiczenia.pdb
+C:\Users\Czarny\Desktop\Robert Czarnecki\Cwiczenia\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Czarny\Desktop\Robert Czarnecki\LAb1\bin\Debug\Cwiczenia.exe.config
+C:\Users\Czarny\Desktop\Robert Czarnecki\LAb1\obj\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\Robert Czarnecki\LAb1\obj\Debug\Cwiczenia.pdb
+C:\Users\Czarny\Desktop\Szkoła\JEST\Robert Czarnecki\LAb1\bin\Debug\Cwiczenia.exe.config
+C:\Users\Czarny\Desktop\Szkoła\JEST\Robert Czarnecki\LAb1\obj\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\Szkoła\JEST\Robert Czarnecki\LAb1\obj\Debug\Cwiczenia.pdb
+C:\Users\Czarny\Desktop\Szkoła\JEST\Robert Czarnecki\LAb1\bin\Debug\Cwiczenia.exe
+C:\Users\Czarny\Desktop\Szkoła\JEST\Robert Czarnecki\LAb1\bin\Debug\Cwiczenia.pdb
+C:\Users\Czarny\Desktop\Szkoła\JEST\Robert Czarnecki\LAb1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
