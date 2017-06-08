@@ -51,6 +51,7 @@
     <Compile Include="Szachy\Pozycja.cs" />
     <Compile Include="Szachy\Kon.cs" />
     <Compile Include="Szachy\Szachownica.cs" />
+    <Compile Include="Szachy\Toolbox.cs" />
     <Compile Include="Szachy\Wieza.cs" />
   </ItemGroup>
   <ItemGroup>

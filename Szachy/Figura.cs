@@ -9,7 +9,7 @@ namespace Lab1.Szachy
     
     
     
-    abstract class Figura : Pozycja
+    internal abstract class Figura : Pozycja
     {
        
 
@@ -40,6 +40,25 @@ namespace Lab1.Szachy
             if (x==true)
                 Console.Write("przesunęło się");
             else Console.Write("Nie przesunęło się");
+        }
+        public static Figura FiguraFactory(string FiguraType)
+        {
+            switch (FiguraType)
+            {
+                case "Krol":
+                    return new Krol();
+                case "Kon":
+                    return new Kon();
+                case "Pionek":
+                    return new Pionek();
+                case "Wieza":
+                    return new Wieza();
+                default:
+                    break;
+            }
+            throw new System.NotSupportedException("nie ma takiej figury");
+           
+           
         }
 
     
